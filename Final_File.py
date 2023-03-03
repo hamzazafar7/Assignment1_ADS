@@ -2,7 +2,7 @@
 # Applied Data Science - 01
 # Visualisation with three different types of plots.
 # Muhammad Hamza Zafar
-# Student ID : 22022247
+
 
 
 import pandas as pd
